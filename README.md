@@ -38,6 +38,12 @@ Eu achava que conhecia o calor até chegar aqui. Kkkkk.
 
 Mas, brincadeiras à parte, gosto daqui. Só acho que podiam ter colocado uma praia no projeto original da cidade. **Faltou esse detalhe, Niemeyer!** 🌊
 
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jo%C3%A3o-Pessoa-Praia-Mana%C3%ADra-Bessa.jpg" width="680" alt="Praia Manaíra/Bessa — João Pessoa, PB"/>
+  <br/>
+  <sub>📍 Praia Manaíra/Bessa — João Pessoa, PB &nbsp;·&nbsp; A saudade é real 🌴🥥</sub>
+</div>
+
 ---
 
 ## 💻 Um Desenvolvedor em Construção
@@ -61,10 +67,16 @@ Quanto mais estudo, mais percebo o tamanho desse universo. Tem linguagem, framew
 Mas acho isso muito legal!
 
 - 📖 Estou aprendendo, errando, acertando e melhorando a cada dia
-- 👂 Gosto de ouvir pessoas mais experientes e trocar conhecimento  
+- 👂 Gosto de ouvir pessoas mais experientes e trocar conhecimentos  
 - 🤝 Acredito que todo mundo começou de algum lugar — um pouco de paciência faz diferença
 - 💡 Se puder ajudar alguém com algo que já aprendi, faço com prazer
 - 🔍 Se não souber a resposta... a gente pesquisa! Só não prometo que resolve de primeira 😂
+
+<div align="center">
+  <img src="https://media.giphy.com/media/hiMRjjRiwEFZiEPbgA/giphy.gif" width="420" alt="Programmer meme"/>
+  <br/>
+  <sub>Eu quando o código finalmente compila depois de 3 horas de bug 😂</sub>
+</div>
 
 ---
 
@@ -132,11 +144,17 @@ Quando não estou debugando (ou fingindo que entendo o que o compilador quer diz
 
 | 🎮 Games | 🥥 Saudade de Jampa | 📚 Modo Estudo |
 |:---:|:---:|:---:|
-| Guerra & Sobrevivência | Praia de Tambau | Mais uma linguagem nova |
+| Guerra & Sobrevivência | Praia de Tambaú | Mais uma linguagem nova |
 | Realidade Virtual | Água de coco geladinha | Tutorial às 23h |
 | Construção de bases | Brisa do litoral | "Só mais um commit..." |
 
 > *Aprender programação é quase um jogo de sobrevivência. Você começa sem nada, encontra obstáculos, aprende novas habilidades e, de vez em quando, aparece um bug que parece chefe de fase.* 🐛⚔️
+
+<div align="center">
+  <img src="https://media.giphy.com/media/AHMHuF12pW4b6/giphy.gif" width="420" alt="GTA Wasted"/>
+  <br/>
+  <sub>Eu quando faço deploy na sexta-feira à tarde sem testar direito 😂</sub>
+</div>
 
 ---
 

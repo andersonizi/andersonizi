@@ -73,9 +73,9 @@ Mas acho isso muito legal!
 - 🔍 Se não souber a resposta... a gente pesquisa! Só não prometo que resolve de primeira 😂
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hiMRjjRiwEFZiEPbgA/giphy.gif" width="420" alt="Programmer meme"/>
+  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="420" alt="I have no idea what I'm doing"/>
   <br/>
-  <sub>Eu quando o código finalmente compila depois de 3 horas de bug 😂</sub>
+  <sub>Eu aprendendo programação 😂</sub>
 </div>
 
 ---
@@ -151,9 +151,9 @@ Quando não estou debugando (ou fingindo que entendo o que o compilador quer diz
 > *Aprender programação é quase um jogo de sobrevivência. Você começa sem nada, encontra obstáculos, aprende novas habilidades e, de vez em quando, aparece um bug que parece chefe de fase.* 🐛⚔️
 
 <div align="center">
-  <img src="https://media.giphy.com/media/AHMHuF12pW4b6/giphy.gif" width="420" alt="GTA Wasted"/>
+  <img src="https://media.giphy.com/media/Px8gJuXphAERblnKG8/giphy.gif" width="560" alt="GTA 6 Vice City Night"/>
   <br/>
-  <sub>Eu quando faço deploy na sexta-feira à tarde sem testar direito 😂</sub>
+  <sub>Já estou em modo standby aguardando o GTA 6 🔥 &nbsp;·&nbsp; Vice City de volta com tudo!</sub>
 </div>
 
 ---
